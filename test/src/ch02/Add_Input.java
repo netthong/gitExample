@@ -9,6 +9,7 @@ public class Add_Input {
 		int y;
 		int sum;
 //		int x, y, sum ; 이렇게도 가능
+		//ds
 		
 		System.out.print("첫 번째 숫자를 입력하세요 : ");
 		x = input.nextInt();
